@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for fruit in Apple Banana Cherry Mango Orange; do 
+    echo "I love $fruit!"
+done
